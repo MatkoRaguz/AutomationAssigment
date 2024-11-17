@@ -11,7 +11,7 @@ This project is a test automation framework using Playwright, a browser automati
 
 # Getting Started:
 
-- Clone the repository: git clone
+- Clone the repository: git clone https://github.com/MatkoRaguz/AutomationAssigment.git
 - Install dependencies: npm install
 - Configure your test environment: update the playwright.config.ts file with your desired browser and test settings
 - Run the tests: npm test
