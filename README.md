@@ -13,10 +13,12 @@ This project is a test automation framework using Playwright, a browser automati
 # Getting Started:
 
 - Clone the repository: git clone https://github.com/MatkoRaguz/AutomationAssigment.git
+- Install Playwright: npx playwright install --with-deps
 - Install dependencies: npm install
 - Test are setup to run in Chromium and Mobile Chrome
 - Configure your test environment: update the playwright.config.ts file with your desired browser and test settings (Firefox and Safari (Mobile))
-- Run the tests: npm test
+- Run the tests headles: npm test
+- Run the test headed mode: npm run testHead
 
 # Test Cases:
 
